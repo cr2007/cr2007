@@ -1,5 +1,6 @@
 <h2 align="center">Hi, I'm Chandrashekhar 👋</h2>
 <br>
+Student at <a href="https://hw.ac.uk">Heriot-Watt University</a>
 
 <br>
 <br>
@@ -8,6 +9,7 @@ Badges Sample Code (Replace text within <> to the required values)
 .
 https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logoname>&logoColor=white&color=<hexcode>
 -->
+<p align="center">
 <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
 <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat-sqaure&logo=css3&logoColor=white&color=1572B6">
 <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
@@ -34,7 +36,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 <a href="https://obsproject.com/">
 <img alt="OBS Studio" title="Screen Recording & Livestream Software" src="https://img.shields.io/badge/OBS%20Studio-informational?style=flat-sqaure&logo=obs-studio&logoColor=white&color=302E31">
 </a>
-
+</p>
 
 
 <!--
