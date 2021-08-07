@@ -54,6 +54,13 @@ You can connect with me via the following platforms below:
 <img alt="Email" title="Drop a mail!" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4">
 </a>
 </div>
+<br>
+<!-- GitHub Stats -->
+<details><summary>GitHub Stats</summary>
+<!-- Credit: https://github.com/anuraghazra/github-readme-stats) -->
+
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr2007">
+</details>
 
 <!--
 **cr2007/cr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
