@@ -1,7 +1,8 @@
-<h2 align="center">Hi, I'm Chandrashekhar 👋</h2>
+<h2 align="center">Hi, I'm Chandrashekhar</h2>
+<img src="<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <br>
 <p>2nd year Computer Science Student at <a href="https://hw.ac.uk">Heriot-Watt University</a></p>
-<p>Currently open to learning new things</p>
+<p>Currently open to learning new things<br>and exploring new opportunities!</p>
 <br>
 
 <!-- Tools and Technologies Section -->
@@ -41,6 +42,12 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 </a>
 </p>
 
+You can connect with me via the following platforms below:
+<div align="center">
+<a href="https://www.linkedin.com/in/chandrashekhar-r/">
+<img alt="LinkedIn" title="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
+<img>
+</div>
 
 <!--
 **cr2007/cr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
