@@ -59,7 +59,8 @@ You can connect with me via the following platforms below:
 <details><summary>GitHub Stats</summary>
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats) -->
 
-<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr2007">
+<div align="center">
+<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr2007&theme=dracula">
 </details>
 
 <!--
