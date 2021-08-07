@@ -2,7 +2,7 @@
 <h2 align="center">Hi, I'm Chandrashekhar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <p>2nd year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk">Heriot-Watt University</a></p>
-<p>Vice-President of <a href="https://github.com/wattlife">HW Media Club</a></p>
+<p>Vice-President of <a href="https://www.instagram.com/_wattlife/">HW Media Club</a></p>
 <p>Member of the Design Team at <a href="https://hwtech.club/">HW Tech Club</a></p>
 <p>Currently open to learning new things<br>and exploring new opportunities!</p>
 <br>
