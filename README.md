@@ -1,6 +1,9 @@
+<!-- Introduction -->
 <h2 align="center">Hi, I'm Chandrashekhar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
-<p>2nd year Computer Science Student at <a href="https://hw.ac.uk">Heriot-Watt University</a></p>
+<p>2nd year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk">Heriot-Watt University</a></p>
+<p>Vice-President of <a href="https://github.com/wattlife">HW Media Club</a></p>
+<p>Member of the Design Team at <a href="hwtech.club">HW Tech Club</a></p>
 <p>Currently open to learning new things<br>and exploring new opportunities!</p>
 <br>
 
@@ -40,13 +43,18 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 <img alt="OBS Studio" title="Screen Recording & Livestream Software" src="https://img.shields.io/badge/OBS%20Studio-informational?style=flat-sqaure&logo=obs-studio&logoColor=white&color=302E31">
 </a>
 </p>
+<br>
 
 You can connect with me via the following platforms below:
 <div align="center">
 <a href="https://www.linkedin.com/in/chandrashekhar-r/">
 <img alt="LinkedIn" title="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
-<img>
+</a>
+<a href="mailto:cr2007@hw.ac.uk">
+<img alt="Email" title="Drop a mail!" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4">
 </div>
+
+
 
 <!--
 **cr2007/cr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
