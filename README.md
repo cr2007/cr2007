@@ -1,5 +1,4 @@
-<h2 align="center">Hi, I'm Chandrashekhar</h2>
-<img src="<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<h2 align="center">Hi, I'm Chandrashekhar <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <p>2nd year Computer Science Student at <a href="https://hw.ac.uk">Heriot-Watt University</a></p>
 <p>Currently open to learning new things<br>and exploring new opportunities!</p>
