@@ -19,6 +19,15 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
 <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat-sqaure&logo=css3&logoColor=white&color=1572B6">
 <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
+<a href="https://www.git-scm.com">
+<img alt="Git" title="Version Control System" src="https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=git&logoColor=white&color=F05032">
+</a>
+<a href="https://www.github.com">
+<img alt="GitHub" src="https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=github&logoColor=white&color=181717">
+</a>
+<a href="https://about.gitlab.com/">
+<img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat-sqaure&logo=gitlab&logoColor=white&color=FCA121">
+</a>
 <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat-sqaure&logo=Java&logoColor=white&color=007396">
 <a href="https://www.canva.com/">
 <img alt="Canva" title="Graphic Design Platform" src="https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=canva&logoColor=white&color=00C4CC&">
@@ -32,9 +41,6 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 </a>
 <a href="https://www.microsoft.com/en-us/windows">
 <img alt="Windows" src="https://img.shields.io/badge/Windows-informational?style=flat-sqaure&logo=windows&logoColor=white&color=0078D6">
-</a>
-<a href="https://www.github.com">
-<img alt="GitHub" src="https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=github&logoColor=white&color=181717">
 </a>
 <a href="https://code.visualstudio.com/">
 <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
