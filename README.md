@@ -55,7 +55,7 @@ You can connect with me via the following platforms below:
 </a>
 </div>
 <br>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dark">
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dark">
 <!-- GitHub Stats -->
 <details><summary>GitHub Stats</summary>
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats) -->
