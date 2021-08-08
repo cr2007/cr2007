@@ -55,7 +55,9 @@ You can connect with me via the following platforms below:
 </a>
 </div>
 <br>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dark">
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dark">
+</div>
 <!-- GitHub Stats -->
 <details><summary>GitHub Stats</summary>
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats) -->
@@ -65,7 +67,6 @@ You can connect with me via the following platforms below:
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr2007&layout=compact&theme=dracula">
 </div>
 <p><b>Note:</b> <em>The Top Languages is only a metric to display the languages my public code consist of, and does not reflect experience or skill level.</p>
-
 </details>
 
 <!--
