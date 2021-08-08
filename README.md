@@ -29,6 +29,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat-sqaure&logo=gitlab&logoColor=white&color=FCA121">
 </a>
 <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat-sqaure&logo=Java&logoColor=white&color=007396">
+<img alt="MS Excel" title="Microsoft Excel" src="https://img.shields.io/badge/MS%20Excel-informational?style=flat-sqaure&logo=microsoft-excel&logoColor=white&color=217346">
 <a href="https://www.canva.com/">
 <img alt="Canva" title="Graphic Design Platform" src="https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=canva&logoColor=white&color=00C4CC&">
 </a>
