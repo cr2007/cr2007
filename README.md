@@ -80,7 +80,8 @@ You can connect with me via the following platforms below:
 <p><b>Note:</b> <em>The Top Languages is only a metric to display the languages my public code consist of, and does not reflect experience or skill level.</em></p>
 </details>
 <br>
-<br>
+
+<!-- Visitor Badge -->
 <img src="https://visitor-badge.glitch.me/badge?page_id=cr2007" alt="Visitor Badge"/>
 
 <!--
