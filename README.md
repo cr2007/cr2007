@@ -2,9 +2,9 @@
 <h2 align="center">Hi, I'm Chandrashekhar! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 <br>
 <p>2nd year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
-<p>Vice-President of <a href="https://www.instagram.com/_wattlife/">HW Media Club</a></p>
-<p>Member of the Design Team at <a href="https://hwtech.club/">HW Tech Club</a></p>
-<p>Currently open to learning new things<br>and exploring new opportunities!</p>
+<p>Vice-President of <a href="https://www.instagram.com/_wattlife/">HW Media Club</a><br>
+Member of the Design Team at <a href="https://hwtech.club/">HW Tech Club</a></p>
+<p>Currently open to learning new things and exploring new opportunities!</p>
 <br>
 
 
@@ -64,6 +64,7 @@ You can connect with me via the following platforms below:
 <img alt="Email" title="Drop a mail!" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4">
 </a>
 <br>
+<br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dracula">
 </div>
 
@@ -76,11 +77,12 @@ You can connect with me via the following platforms below:
 <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr2007&theme=dracula">
 <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr2007&layout=compact&theme=dracula">
 </div>
-<p><b>Note:</b> <em>The Top Languages is only a metric to display the languages my public code consist of, and does not reflect experience or skill level.</p>
+<p><b>Note:</b> <em>The Top Languages is only a metric to display the languages my public code consist of, and does not reflect experience or skill level.</em></p>
 </details>
 <br>
 <br>
-<img src="https://visitor-badge.glitch.me/badge?page_id=cr2007.Project-Euler" alt="visitor badge"/>
+<img src="https://visitor-badge.glitch.me/badge?page_id=cr2007" alt="Visitor Badge"/>
+
 <!--
 **cr2007/cr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
