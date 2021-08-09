@@ -7,6 +7,7 @@
 <p>Currently open to learning new things<br>and exploring new opportunities!</p>
 <br>
 
+
 <!-- Tools and Technologies Section -->
 <p>Some of the Tools and Technologies I work with:</p>
 
@@ -52,6 +53,8 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
 </p>
 <br>
 
+
+<!-- Contact Info -->
 You can connect with me via the following platforms below:
 <div align="center">
 <a href="https://www.linkedin.com/in/chandrashekhar-r/">
@@ -75,7 +78,9 @@ You can connect with me via the following platforms below:
 </div>
 <p><b>Note:</b> <em>The Top Languages is only a metric to display the languages my public code consist of, and does not reflect experience or skill level.</p>
 </details>
-
+<br>
+<br>
+<img src="https://visitor-badge.glitch.me/badge?page_id=cr2007.Project-Euler" alt="visitor badge"/>
 <!--
 **cr2007/cr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
