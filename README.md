@@ -68,6 +68,13 @@ You can connect with me via the following platforms below:
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dracula">
 </div>
 
+<br>
+<br>
+
+<h3>Recent Activity</h3>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <!-- GitHub Stats -->
 <details><summary>GitHub Stats</summary>
