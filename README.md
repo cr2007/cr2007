@@ -75,11 +75,11 @@ You can connect with me via the following platforms below:
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/cr2007/links.hwtech.club/pull/2) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-2. 💪 Opened PR [#2](https://github.com/cr2007/links.hwtech.club/pull/2) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-3. 💪 Opened PR [#1](https://github.com/HWTechClub/links.hwtech.club/pull/1) in [HWTechClub/links.hwtech.club](https://github.com/HWTechClub/links.hwtech.club)
-4. 💪 Opened PR [#3](https://github.com/Akilan1999/remotegameplay/pull/3) in [Akilan1999/remotegameplay](https://github.com/Akilan1999/remotegameplay)
-5. 💪 Opened PR [#68](https://github.com/Akilan1999/p2p-rendering-computation/pull/68) in [Akilan1999/p2p-rendering-computation](https://github.com/Akilan1999/p2p-rendering-computation)
+1. 🎉 Merged PR [#1](https://github.com/HWTechClub/links.hwtech.club/pull/1) in [HWTechClub/links.hwtech.club](https://github.com/HWTechClub/links.hwtech.club)
+2. 🎉 Merged PR [#2](https://github.com/cr2007/links.hwtech.club/pull/2) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+3. 💪 Opened PR [#2](https://github.com/cr2007/links.hwtech.club/pull/2) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+4. 💪 Opened PR [#1](https://github.com/HWTechClub/links.hwtech.club/pull/1) in [HWTechClub/links.hwtech.club](https://github.com/HWTechClub/links.hwtech.club)
+5. 💪 Opened PR [#3](https://github.com/Akilan1999/remotegameplay/pull/3) in [Akilan1999/remotegameplay](https://github.com/Akilan1999/remotegameplay)
 <!--END_SECTION:activity-->
 
 <!-- GitHub Stats -->
