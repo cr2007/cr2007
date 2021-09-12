@@ -75,11 +75,11 @@ You can connect with me via the following platforms below:
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#5](https://github.com/HWTechClub/hwtech.club/pull/5) in [HWTechClub/hwtech.club](https://github.com/HWTechClub/hwtech.club)
-2. 💪 Opened PR [#5](https://github.com/HWTechClub/hwtech.club/pull/5) in [HWTechClub/hwtech.club](https://github.com/HWTechClub/hwtech.club)
-3. 💪 Opened PR [#3](https://github.com/hw-cs-reps/portal/pull/3) in [hw-cs-reps/portal](https://github.com/hw-cs-reps/portal)
-4. 🎉 Merged PR [#3](https://github.com/cr2007/links.hwtech.club/pull/3) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-5. 💪 Opened PR [#3](https://github.com/cr2007/links.hwtech.club/pull/3) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+1. 🎉 Merged PR [#4](https://github.com/cr2007/links.hwtech.club/pull/4) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+2. 💪 Opened PR [#4](https://github.com/cr2007/links.hwtech.club/pull/4) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+3. 🎉 Merged PR [#5](https://github.com/HWTechClub/hwtech.club/pull/5) in [HWTechClub/hwtech.club](https://github.com/HWTechClub/hwtech.club)
+4. 💪 Opened PR [#5](https://github.com/HWTechClub/hwtech.club/pull/5) in [HWTechClub/hwtech.club](https://github.com/HWTechClub/hwtech.club)
+5. 💪 Opened PR [#3](https://github.com/hw-cs-reps/portal/pull/3) in [hw-cs-reps/portal](https://github.com/hw-cs-reps/portal)
 <!--END_SECTION:activity-->
 
 <!-- GitHub Stats -->
