@@ -75,11 +75,11 @@ You can connect with me via the following platforms below:
 <h3>Recent Activity</h3>
 
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#5](https://github.com/cr2007/links.hwtech.club/issues/5) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-2. 🗣 Commented on [#5](https://github.com/cr2007/links.hwtech.club/issues/5) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-3. 🎉 Merged PR [#4](https://github.com/cr2007/links.hwtech.club/pull/4) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-4. 💪 Opened PR [#4](https://github.com/cr2007/links.hwtech.club/pull/4) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-5. 🎉 Merged PR [#5](https://github.com/HWTechClub/hwtech.club/pull/5) in [HWTechClub/hwtech.club](https://github.com/HWTechClub/hwtech.club)
+1. 💪 Opened PR [#1](https://github.com/cr2007/cr2007.github.io/pull/1) in [cr2007/cr2007.github.io](https://github.com/cr2007/cr2007.github.io)
+2. ❗️ Closed issue [#5](https://github.com/cr2007/links.hwtech.club/issues/5) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+3. 🗣 Commented on [#5](https://github.com/cr2007/links.hwtech.club/issues/5) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+4. 🎉 Merged PR [#4](https://github.com/cr2007/links.hwtech.club/pull/4) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
+5. 💪 Opened PR [#4](https://github.com/cr2007/links.hwtech.club/pull/4) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
 <!--END_SECTION:activity-->
 
 <!-- GitHub Stats -->
