@@ -72,16 +72,6 @@ You can connect with me via the following platforms below:
 <br>
 <br>
 
-<h3>Recent Activity</h3>
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/cr2007/cr2007.github.io/pull/2) in [cr2007/cr2007.github.io](https://github.com/cr2007/cr2007.github.io)
-2. 💪 Opened PR [#2](https://github.com/cr2007/cr2007.github.io/pull/2) in [cr2007/cr2007.github.io](https://github.com/cr2007/cr2007.github.io)
-3. 🎉 Merged PR [#1](https://github.com/cr2007/cr2007.github.io/pull/1) in [cr2007/cr2007.github.io](https://github.com/cr2007/cr2007.github.io)
-4. 💪 Opened PR [#1](https://github.com/cr2007/cr2007.github.io/pull/1) in [cr2007/cr2007.github.io](https://github.com/cr2007/cr2007.github.io)
-5. ❗️ Closed issue [#5](https://github.com/cr2007/links.hwtech.club/issues/5) in [cr2007/links.hwtech.club](https://github.com/cr2007/links.hwtech.club)
-<!--END_SECTION:activity-->
-
 <!-- GitHub Stats -->
 <details><summary>GitHub Stats</summary>
 <!-- Credit: https://github.com/anuraghazra/github-readme-stats) -->
