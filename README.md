@@ -48,7 +48,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
         <img alt="Windows" src="https://img.shields.io/badge/Windows-informational?style=flat-sqaure&logo=windows&logoColor=white&color=0078D6">
     </a>
     <a href="https://code.visualstudio.com/">
-        <img alt="VS Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
+        <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
     </a>
     <a href="https://obsproject.com/">
         <img alt="OBS Studio" title="Screen Recording & Livestream Software" src="https://img.shields.io/badge/OBS%20Studio-informational?style=flat-sqaure&logo=obs-studio&logoColor=white&color=302E31">
