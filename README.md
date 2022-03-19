@@ -30,6 +30,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <a href="https://about.gitlab.com/">
         <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat-sqaure&logo=gitlab&logoColor=white&color=FCA121">
     </a>
+    <img alt="C" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=white&color=A8B9CC&">
     <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat-sqaure&logo=Java&logoColor=white&color=007396">
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
         <img alt="MS Excel" title="Microsoft Excel" src="https://img.shields.io/badge/MS%20Excel-informational?style=flat-sqaure&logo=microsoft-excel&logoColor=white&color=217346">
