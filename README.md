@@ -48,6 +48,9 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <a href="https://www.microsoft.com/en-us/windows">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-informational?style=flat-sqaure&logo=windows&logoColor=white&color=0078D6">
     </a>
+    <a href="https://ubuntu.com/">
+        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-informational?style=flat-sqaure&logo=ubuntu&logoColor=white&color=E95420">
+    </a>
     <a href="https://code.visualstudio.com/">
         <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
     </a>
