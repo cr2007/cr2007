@@ -18,42 +18,59 @@ Badges Sample Code (Replace text within <> to the required values)
 https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logoname>&logoColor=white&color=<hexcode>
 -->
 <p align="left">
+    <!-- HTML -->
     <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
+    <!-- CSS -->
     <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat-sqaure&logo=css3&logoColor=white&color=1572B6">
+    <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
+    <!-- Git -->
     <a href="https://www.git-scm.com">
         <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=git&logoColor=white&color=F05032">
     </a>
+    <!-- GitHub -->
     <a href="https://www.github.com">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=github&logoColor=white&color=181717">
     </a>
+    <!-- Gitlab -->
     <a href="https://about.gitlab.com/">
         <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat-sqaure&logo=gitlab&logoColor=white&color=FCA121">
     </a>
-    <img alt="C" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=white&color=A8B9CC&">
+    <!-- C Programming language -->
+    <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=white&color=A8B9CC&">
+    <!-- Java -->
     <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat-sqaure&logo=Java&logoColor=white&color=007396">
+    <!-- Microsoft Excel -->
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
         <img alt="MS Excel" title="Microsoft Excel" src="https://img.shields.io/badge/MS%20Excel-informational?style=flat-sqaure&logo=microsoft-excel&logoColor=white&color=217346">
     </a>
+    <!-- Canva -->
     <a href="https://www.canva.com/">
         <img alt="Canva" title="Graphic Design Platform" src="https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=canva&logoColor=white&color=00C4CC&">
     </a>
+    <!-- Adobe Premiere Pro CC -->
     <a href="https://www.adobe.com/products/premiere.html">
         <img alt="Adobe Premiere Pro" title="Professional Video Editing Tool by Adobe" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20CC-informational?style=flat-sqaure&logo=Adobe+Premiere+Pro&logoColor=black&color=9999FF">
     </a>
+    <!-- Markdown -->
     <img alt="Markdown" title="Markup Language to format text" src="https://img.shields.io/badge/Markdown-informational?style=flat-sqaure&logo=markdown&logoColor=white&color=000000">
+    <!-- Notion -->
     <a href="https://notion.com">
         <img alt="Notion" title="Note-Taking App" src="https://img.shields.io/badge/Notion-informational?style=flat-sqaure&logo=notion&logoColor=white&color=000000">
     </a>
+    <!-- Microsoft Windows OS -->
     <a href="https://www.microsoft.com/en-us/windows">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-informational?style=flat-sqaure&logo=windows&logoColor=white&color=0078D6">
     </a>
+    <!-- Ubuntu OS (Linux) -->
     <a href="https://ubuntu.com/">
         <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-informational?style=flat-sqaure&logo=ubuntu&logoColor=white&color=E95420">
     </a>
+    <!-- VS Code -->
     <a href="https://code.visualstudio.com/">
         <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
     </a>
+    <!-- OBS -->
     <a href="https://obsproject.com/">
         <img alt="OBS Studio" title="Screen Recording & Livestream Software" src="https://img.shields.io/badge/OBS%20Studio-informational?style=flat-sqaure&logo=obs-studio&logoColor=white&color=302E31">
     </a>
