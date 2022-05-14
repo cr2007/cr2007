@@ -48,6 +48,10 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <a href="https://www.canva.com/">
         <img alt="Canva" title="Graphic Design Platform" src="https://img.shields.io/badge/Canva-informational?style=flat-sqaure&logo=canva&logoColor=white&color=00C4CC&">
     </a>
+    <!-- Figma -->
+    <a href="https://www.figma.com/">
+        <img alt="Figma" title="Prototyping Tool" src="https://img.shields.io/badge/Figma-informational?style=flat-sqaure&logo=figma&logoColor=black&color=F24E1E&">
+    </a>
     <!-- Adobe Premiere Pro CC -->
     <a href="https://www.adobe.com/products/premiere.html">
         <img alt="Adobe Premiere Pro" title="Professional Video Editing Tool by Adobe" src="https://img.shields.io/badge/Adobe%20Premiere%20Pro%20CC-informational?style=flat-sqaure&logo=Adobe+Premiere+Pro&logoColor=black&color=9999FF">
