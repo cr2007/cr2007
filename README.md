@@ -39,7 +39,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <!-- Linux -->
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
     <!-- C Programming language -->
-    <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=white&color=A8B9CC&">
+    <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
     <!-- Java -->
     <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat-sqaure&logo=Java&logoColor=white&color=007396">
     <!-- Microsoft Excel -->
