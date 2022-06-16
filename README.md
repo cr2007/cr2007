@@ -36,6 +36,8 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <a href="https://about.gitlab.com/">
         <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat-sqaure&logo=gitlab&logoColor=white&color=FCA121">
     </a>
+    <!-- Linux -->
+    <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=white&color=A8B9CC&">
     <!-- Java -->
