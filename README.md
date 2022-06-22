@@ -52,7 +52,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     </a>
     <!-- Figma -->
     <a href="https://www.figma.com/">
-        <img alt="Figma" title="Prototyping Tool" src="https://img.shields.io/badge/Figma-informational?style=flat-sqaure&logo=figma&logoColor=black&color=F24E1E&">
+        <img alt="Figma" title="Prototyping Tool" src="https://img.shields.io/badge/Figma-informational?style=flat-sqaure&logo=figma&logoColor=white&color=F24E1E&">
     </a>
     <!-- Adobe Premiere Pro CC -->
     <a href="https://www.adobe.com/products/premiere.html">
