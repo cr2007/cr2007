@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h2 align="center">Hi, I'm Chandrashekhar! 👋</h2>
 <br>
-<p>2nd year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
+<p>3rd year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
 <p>Vice-President of <a href="https://www.instagram.com/_wattlife/">HW Media Club</a><br>
 Member of the Design Team at <a href="https://hwtech.club/">HW Tech Club</a><br>
 Core Team Member at <a href="https://gdsc.community.dev/heriot-watt-university/">Google Developer Student Clubs @ Heriot-Watt University</a></p>
