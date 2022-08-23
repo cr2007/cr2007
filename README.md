@@ -39,6 +39,8 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
+    <!-- Google Colaboratory -->
+    <img alt="Google Colab" title="Google Colaboratory" src="https://img.shields.io/badge/Google%20Colab-informational?style=flat-sqaure&logo=google-colab&logoColor=white&color=f9ab00">
     <!-- Java -->
     <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat-sqaure&logo=Java&logoColor=white&color=007396">
     <!-- Microsoft Excel -->
