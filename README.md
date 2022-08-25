@@ -39,6 +39,10 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
+    <!-- Python -->
+    <a href="https://python.org/">
+        <img alt="Python" title="Python Programming Language" src="https://img.shields.io/badge/Python-informational?style=flat-sqaure&logo=python&logoColor=white&color=3776ab">
+    </a>
     <!-- Google Colaboratory -->
     <a href="https://colab.research.google.com/">
         <img alt="Google Colab" title="Google Colaboratory" src="https://img.shields.io/badge/Google%20Colab-informational?style=flat-sqaure&logo=google-colab&logoColor=white&color=f9ab00">
