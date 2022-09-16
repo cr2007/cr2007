@@ -103,6 +103,11 @@ You can connect with me via the following platforms below:
     <br>
     <br>
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=cr2007&theme=dracula">
+    <br>
+    <br>
+    <a href="https://github.com/cr2007">
+        <img src="https://gh-widgetbox.vercel.app/api/profile?username=cr2007&data=followers,repositories,stars,commits">
+    </a>
 </div>
 
 <br>
