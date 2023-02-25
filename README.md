@@ -37,6 +37,8 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     </a>
     <!-- Linux -->
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
+    <!-- ChatGPT -->
+    <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-informational?style=flat-sqaure&logo=OpenAI&logoColor=white&color=00A67E">
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
     <!-- Python -->
