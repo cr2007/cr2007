@@ -37,6 +37,10 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     </a>
     <!-- Linux -->
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
+    <!-- Powershell -->
+    <a href="https://microsoft.com/PowerShell">
+        <img alt="Powershell" title="Powershell" src="https://img.shields.io/badge/PowerShell-informational?style=flat-sqaure&logo=powershell&logoColor=white&color=5391FE">
+    </a>
     <!-- ChatGPT -->
     <a href="https://openai.com/blog/chatgpt/">
         <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-informational?style=flat-sqaure&logo=OpenAI&logoColor=white&color=00A67E">
