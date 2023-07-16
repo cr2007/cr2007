@@ -51,7 +51,7 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
     <!-- Google Cloud Platform -->
-    <a href="https://colab.research.google.com/">
+    <a href="https://cloud.google.com/">
         <img alt="Google Cloud" title="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-informational?style=flat-sqaure&logo=google-cloud&logoColor=white&color=4285f4">
     </a>
     <!-- Google Colaboratory -->
