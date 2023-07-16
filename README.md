@@ -23,6 +23,10 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat-sqaure&logo=css3&logoColor=white&color=1572B6">
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
+    <!-- Python -->
+    <a href="https://python.org/">
+        <img alt="Python" title="Python Programming Language" src="https://img.shields.io/badge/Python-informational?style=flat-sqaure&logo=python&logoColor=white&color=3776ab">
+    </a>
     <!-- Git -->
     <a href="https://www.git-scm.com">
         <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/Git-informational?style=flat-sqaure&logo=git&logoColor=white&color=F05032">
@@ -47,9 +51,9 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     </a>
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
-    <!-- Python -->
-    <a href="https://python.org/">
-        <img alt="Python" title="Python Programming Language" src="https://img.shields.io/badge/Python-informational?style=flat-sqaure&logo=python&logoColor=white&color=3776ab">
+    <!-- Google Cloud Platform -->
+    <a href="https://colab.research.google.com/">
+        <img alt="Google Cloud" title="Google Cloud Platform" src="https://img.shields.io/badge/Google%20Cloud-informational?style=flat-sqaure&logo=google-cloud&logoColor=white&color=4285f4">
     </a>
     <!-- Google Colaboratory -->
     <a href="https://colab.research.google.com/">
