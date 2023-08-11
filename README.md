@@ -117,7 +117,7 @@ You can connect with me via the following platforms below:
     <br>
     <br>
     <a href="https://github.com/cr2007">
-        <img src="https://gh-widgetbox.vercel.app/api/profile?username=cr2007&data=followers,repositories,stars,commits">
+        <img width="80%" src="https://gh-widgetbox.vercel.app/api/profile?username=cr2007&data=followers,repositories,stars,commits">
     </a>
 </div>
 
@@ -128,15 +128,17 @@ You can connect with me via the following platforms below:
 <details><summary>GitHub Stats</summary>
     <!-- Credit: https://github.com/anuraghazra/github-readme-stats) -->
     <div align="center">
-        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr2007&theme=dracula">
-        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr2007&layout=compact&theme=dracula">
+        <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=cr2007&theme=draculahide_rank=true">
+        <img alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cr2007&hide_progress=true&theme=dracula">
     </div>
     <p><b>Note:</b> <em>The Top Languages is only a metric to display the languages my public code consist of, and does not reflect experience or skill level.</em></p>
 </details>
 <br>
 
 <!-- Visitor Badge -->
-<img src="https://visitor-badge.glitch.me/badge?page_id=cr2007" alt="Visitor Badge"/>
+<a href="https://visitorbadge.io/status?path=https%3A%2F%2Fgithub.com%2Fcr2007">
+    <img src="https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fcr2007&countColor=%23263759" />
+</a>
 
 <!--
 **cr2007/cr2007** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
