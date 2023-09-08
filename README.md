@@ -1,8 +1,7 @@
 <!-- Introduction -->
 <h2 align="center">Hi, I'm Chandrashekhar! 👋</h2>
 <br>
-<p>3rd year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
-Chapter Lead at <a href="https://gdsc.community.dev/heriot-watt-university/">Google Developer Student Clubs @ Heriot-Watt University</a></p>
+<p>4th year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
 <p>Currently open to learning new things and exploring new opportunities!</p>
 <br>
 
