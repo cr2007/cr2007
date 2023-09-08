@@ -34,6 +34,10 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     </a>
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
+    <!-- Streamlit -->
+    <a href="https://streamlit.io/">
+        <img alt="Streamlit" title="Turns Python scripts into easy Web Apps in minutes" src="https://img.shields.io/badge/Streamlit-informational?style=flat-sqaure&logo=streamlit&logoColor=white&color=FF4B4B">
+    </a>
     <!-- HTML -->
     <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
     <!-- CSS -->
