@@ -16,12 +16,6 @@ Badges Sample Code (Replace text within <> to the required values)
 https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logoname>&logoColor=white&color=<hexcode>
 -->
 <p align="left">
-    <!-- HTML -->
-    <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
-    <!-- CSS -->
-    <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat-sqaure&logo=css3&logoColor=white&color=1572B6">
-    <!-- JavaScript -->
-    <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
     <!-- Python -->
     <a href="https://python.org/">
         <img alt="Python" title="Python Programming Language" src="https://img.shields.io/badge/Python-informational?style=flat-sqaure&logo=python&logoColor=white&color=3776ab">
@@ -34,19 +28,29 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <a href="https://www.github.com">
         <img alt="GitHub" src="https://img.shields.io/badge/GitHub-informational?style=flat-sqaure&logo=github&logoColor=white&color=181717">
     </a>
+    <!-- ChatGPT -->
+    <a href="https://openai.com/blog/chatgpt/">
+        <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-informational?style=flat-sqaure&logo=OpenAI&logoColor=white&color=00A67E">
+    </a>
+    <!-- JavaScript -->
+    <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat-sqaure&logo=javascript&logoColor=black&color=F7DF1E">
+    <!-- HTML -->
+    <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
+    <!-- CSS -->
+    <img alt="CSS" title="Cascading Style Sheets" src="https://img.shields.io/badge/CSS-informational?style=flat-sqaure&logo=css3&logoColor=white&color=1572B6">
     <!-- Gitlab -->
     <a href="https://about.gitlab.com/">
         <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat-sqaure&logo=gitlab&logoColor=white&color=FCA121">
     </a>
     <!-- Linux -->
     <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat-sqaure&logo=Linux&logoColor=black&color=FCC624">
+    <!-- VS Code -->
+    <a href="https://code.visualstudio.com/">
+        <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
+    </a>
     <!-- Powershell -->
     <a href="https://microsoft.com/PowerShell">
         <img alt="Powershell" title="Powershell" src="https://img.shields.io/badge/PowerShell-informational?style=flat-sqaure&logo=powershell&logoColor=white&color=5391FE">
-    </a>
-    <!-- ChatGPT -->
-    <a href="https://openai.com/blog/chatgpt/">
-        <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-informational?style=flat-sqaure&logo=OpenAI&logoColor=white&color=00A67E">
     </a>
     <!-- C Programming language -->
     <img alt="C" title="C Programming Language" src="https://img.shields.io/badge/C-informational?style=flat-sqaure&logo=C&logoColor=black&color=A8B9CC">
@@ -89,10 +93,6 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <!-- Ubuntu OS (Linux) -->
     <a href="https://ubuntu.com/">
         <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-informational?style=flat-sqaure&logo=ubuntu&logoColor=white&color=E95420">
-    </a>
-    <!-- VS Code -->
-    <a href="https://code.visualstudio.com/">
-        <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat-sqaure&logo=visualstudiocode&logoColor=white&color=007ACC">
     </a>
     <!-- OBS -->
     <a href="https://obsproject.com/">
