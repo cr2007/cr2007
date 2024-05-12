@@ -41,6 +41,8 @@ https://img.shields.io/badge/<text>-informational?style=flat-sqaure&logo=<logona
     <a href="https://streamlit.io/">
         <img alt="Streamlit" title="Turns Python scripts into easy Web Apps in minutes" src="https://img.shields.io/badge/Streamlit-informational?style=flat-sqaure&logo=streamlit&logoColor=white&color=FF4B4B">
     </a>
+    <!-- Selenium -->
+        <img alt="Selenium" title="Selenium" src="https://img.shields.io/badge/Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A">
     <!-- HTML -->
     <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat-sqaure&logo=html5&logoColor=white&color=E34F26">
     <!-- CSS -->
