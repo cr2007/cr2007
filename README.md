@@ -31,6 +31,10 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     <a href="https://openai.com/blog/chatgpt/">
         <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-informational?style=flat&logo=OpenAI&logoColor=white&color=00A67E">
     </a>
+    <!-- LangChain -->
+    <a href="https://www.langchain.com">
+        <img alt="LangChain" title="LLM Framework" src="https://img.shields.io/badge/LangChain-informational?style=flat&logo=LangChain&logoColor=white&color=1C3C3C">
+    </a>
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
     <!-- Docker -->
@@ -43,6 +47,10 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     </a>
     <!-- Selenium -->
         <img alt="Selenium" title="Selenium" src="https://img.shields.io/badge/Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A">
+    <!-- Go -->
+    <a href="https://go.dev">
+        <img alt="Go" title="Go Programming Language" src="https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8">
+    </a>
     <!-- HTML -->
     <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
     <!-- CSS -->
