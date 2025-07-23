@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h2 align="center">Hi, I'm Chandrashekhar! 👋</h2>
 <br>
-<p>4th year Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
+<p>SWE at <a title="ODeX Global Website" href="https://odexglobal.com">ODeX Global</a> and Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
 <p>Currently open to learning new things and exploring new opportunities!</p>
 <br>
 
@@ -19,6 +19,20 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     <a href="https://python.org/">
         <img alt="Python" title="Python Programming Language" src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=3776ab">
     </a>
+    <!-- Java -->
+    <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=007396">
+    <!-- Go -->
+    <a href="https://go.dev">
+        <img alt="Go" title="Go Programming Language" src="https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8">
+    </a>
+    <!-- Spring Boot -->
+    <a href="https://spring.io/projects/spring-boot">
+        <img alt="Spring Boot" src="https://img.shields.io/badge/Spring%20Boot-informational?style=flat&logo=SpringBoot&logoColor=white&color=6DB33F">
+    </a>
+    <!-- Jira -->
+    <img alt="Jira" src="https://img.shields.io/badge/Jira-informational?style=flat&logo=Jira&logoColor=white&color=0052CC">
+    <!-- Bitbucket -->
+    <img alt="bitbucket" src="https://img.shields.io/badge/Bitbucket-informational?style=flat&logo=Bitbucket&logoColor=white&color=0052CC">
     <!-- Git -->
     <a href="https://www.git-scm.com">
         <img alt="Git" title="Version Control System" src="https://img.shields.io/badge/Git-informational?style=flat&logo=git&logoColor=white&color=F05032">
@@ -31,15 +45,37 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     <a href="https://openai.com/blog/chatgpt/">
         <img alt="ChatGPT" title="ChatGPT" src="https://img.shields.io/badge/ChatGPT-informational?style=flat&logo=OpenAI&logoColor=white&color=00A67E">
     </a>
+    <!-- Linux -->
+    <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=black&color=FCC624">
+    <!-- Ubuntu OS (Linux) -->
+    <a href="https://ubuntu.com/">
+        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420">
+    </a>
     <!-- LangChain -->
     <a href="https://www.langchain.com">
         <img alt="LangChain" title="LLM Framework" src="https://img.shields.io/badge/LangChain-informational?style=flat&logo=LangChain&logoColor=white&color=1C3C3C">
     </a>
+    <!-- shadcn/ui -->
+    <img alt="shadcn/ui" title="React component platform" src="https://img.shields.io/badge/shadcn/ui-informational?style=flat&logo=shadcnui&logoColor=white&color=000">
+    <!-- Next.js -->
+    <img alt="Next.js" title="JavaScript Framework" src="https://img.shields.io/badge/Next.js-informational?style=flat&logo=next.js&logoColor=white&color=000">
     <!-- JavaScript -->
     <img alt="JS" title="JavaScript" src="https://img.shields.io/badge/JavaScript-informational?style=flat&logo=javascript&logoColor=black&color=F7DF1E">
+    <!-- ntfy.sh -->
+    <a href="https://ntfy.sh">
+        <img alt="ntfy.sh" title="" src="https://img.shields.io/badge/ntfy.sh-informational?style=flat&logo=ntfy&logoColor=white&color=317F6F">
+    </a>
     <!-- Docker -->
     <a href="https://www.docker.com/">
         <img alt="Docker" title="An open platform for developing, shipping, and running applications" src="https://img.shields.io/badge/Docker-informational?style=flat&logo=docker&logoColor=white&color=2496ED">
+    </a>
+    <a href="https://www.atlassian.com/software/confluence">
+        <!-- Confluence -->
+        <img alt="Confluence" src="https://img.shields.io/badge/Confluence-informational?style=flat&logo=Bitbucket&logoColor=white&color=172B4D">
+    </a>
+    <!-- GitHub Actions -->
+    <a href="https://github.com/features/actions">
+        <img alt="GitHub Actions" title="" src="https://img.shields.io/badge/GitHub%20Actions-informational?style=flat&logo=github-actions&logoColor=white&color=2088FF">
     </a>
     <!-- Streamlit -->
     <a href="https://streamlit.io/">
@@ -47,10 +83,6 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     </a>
     <!-- Selenium -->
         <img alt="Selenium" title="Selenium" src="https://img.shields.io/badge/Selenium-informational?style=flat&logo=selenium&logoColor=white&color=43B02A">
-    <!-- Go -->
-    <a href="https://go.dev">
-        <img alt="Go" title="Go Programming Language" src="https://img.shields.io/badge/Go-informational?style=flat&logo=go&logoColor=white&color=00ADD8">
-    </a>
     <!-- HTML -->
     <img alt="HTML" title="HyperText Markup Language" src="https://img.shields.io/badge/HTML-informational?style=flat&logo=html5&logoColor=white&color=E34F26">
     <!-- CSS -->
@@ -59,8 +91,6 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     <a href="https://about.gitlab.com/">
         <img alt="Gitlab" src="https://img.shields.io/badge/Gitlab-informational?style=flat&logo=gitlab&logoColor=white&color=FCA121">
     </a>
-    <!-- Linux -->
-    <img alt="Linux" title="Linux" src="https://img.shields.io/badge/Linux-informational?style=flat&logo=Linux&logoColor=black&color=FCC624">
     <!-- VS Code -->
     <a href="https://code.visualstudio.com/">
         <img alt="VS Code" title="Visual Studio Code" src="https://img.shields.io/badge/VS%20Code-informational?style=flat&logo=visualstudiocode&logoColor=white&color=007ACC">
@@ -79,8 +109,6 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     <a href="https://colab.research.google.com/">
         <img alt="Google Colab" title="Google Colaboratory" src="https://img.shields.io/badge/Google%20Colab-informational?style=flat&logo=google-colab&logoColor=white&color=f9ab00">
     </a>
-    <!-- Java -->
-    <img alt="Java" src="https://img.shields.io/badge/Java-informational?style=flat&logo=Java&logoColor=white&color=007396">
     <!-- Microsoft Excel -->
     <a href="https://www.microsoft.com/en-us/microsoft-365/excel">
         <img alt="MS Excel" title="Microsoft Excel" src="https://img.shields.io/badge/MS%20Excel-informational?style=flat&logo=microsoft-excel&logoColor=white&color=217346">
@@ -106,10 +134,6 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
     <!-- Microsoft Windows OS -->
     <a href="https://www.microsoft.com/en-us/windows">
         <img alt="Windows" src="https://img.shields.io/badge/Windows-informational?style=flat&logo=windows&logoColor=white&color=0078D6">
-    </a>
-    <!-- Ubuntu OS (Linux) -->
-    <a href="https://ubuntu.com/">
-        <img alt="Ubuntu" src="https://img.shields.io/badge/Ubuntu-informational?style=flat&logo=ubuntu&logoColor=white&color=E95420">
     </a>
     <!-- OBS -->
     <a href="https://obsproject.com/">
