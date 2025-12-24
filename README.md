@@ -146,7 +146,7 @@ https://img.shields.io/badge/<text>-informational?style=flat&logo=<logoname>&log
 <!-- Contact Info -->
 You can connect with me via the following platforms below:
 <div align="center">
-    <a href="https://www.linkedin.com/in/chandrashekhar-r/">
+    <a href="https://www.linkedin.com/in/cskdev/">
         <img alt="LinkedIn" title="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
     </a>
     <a href="mailto:github@csk.fyi">
