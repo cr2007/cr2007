@@ -1,7 +1,7 @@
 <!-- Introduction -->
 <h2 align="center">Hi, I'm Chandrashekhar! 👋</h2>
 <br>
-<p>SWE at <a title="ODeX Global Website" href="https://odexglobal.com">ODeX Global</a> and Computer Science Student at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
+<p>SWE at <a title="ODeX Global Website" href="https://odexglobal.com">ODeX Global</a> and Computer Science Graduate at <a title="HWU Website" href="https://hw.ac.uk" target="_blank">Heriot-Watt University</a></p>
 <p>Currently open to learning new things and exploring new opportunities!</p>
 <br>
 
@@ -149,7 +149,7 @@ You can connect with me via the following platforms below:
     <a href="https://www.linkedin.com/in/chandrashekhar-r/">
         <img alt="LinkedIn" title="My LinkedIn Profile" src="https://img.shields.io/badge/LinkedIn-informational?style=for-the-badge&logo=linkedin&logoColor=white&color=0A66C2">
     </a>
-    <a href="mailto:cr2007@hw.ac.uk">
+    <a href="mailto:github@csk.fyi">
         <img alt="Email" title="Drop a mail!" src="https://img.shields.io/badge/Email-informational?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4">
     </a>
     <br>
